@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Harsh Upadhyay 👋
+
+[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=Harshupadhyay-10&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,prs_reviewed)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Harshupadhyay-10&langs_count=6&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Harshupadhyay-10/Harshupadhyay-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
